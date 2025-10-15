@@ -117,7 +117,7 @@ All results displayed beautifully in **Allure HTML report**.
 
 **Prashant Makwana**\
 Senior QA Engineer \| Automation Enthusiast\
-🧰 Tools: Python, Pytest, Allure, Selenium, API Testing\
+🧰 Tools: Python, Pytest, Allure, API Testing\
 🌐 https://www.linkedin.com/in/prashant-makwana-362aa872/
 ------------------------------------------------------------------------
 
