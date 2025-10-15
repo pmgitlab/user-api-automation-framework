@@ -1,0 +1,6 @@
+environments:
+  test:
+    base_url: "https://68ea84f2f1eeb3f856e7802e.mockapi.io/api/v1"
+  staging:
+    base_url: "https://staging.example.com/api/v1"
+active_env: test
