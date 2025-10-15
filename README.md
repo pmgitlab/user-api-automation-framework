@@ -36,3 +36,17 @@ pytest --alluredir=reports
 
 # View allure report
 allure serve reports
+
+# User API Automation Framework
+This project automates testing of user management APIs using Python, Pytest, and Allure.
+
+## Features
+- CRUD operation tests (Create, Read, Update, Delete)
+- Positive, Negative & Edge case validations
+- Environment-driven setup (MockAPI & Fake REST API)
+- Allure reporting integration
+
+## How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run tests: `pytest -v --alluredir=reports`
+3. View report: `allure serve reports`
