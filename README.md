@@ -133,8 +133,6 @@ Senior QA Engineer \| Automation Enthusiast\
 ------------------------------------------------------------------------
 
 ⭐ If you liked this framework, don’t forget to star it on GitHub!
-
-Would you like me to:  
 ---
 
 ## 💫 Contribution & Feedback
