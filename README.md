@@ -2,7 +2,7 @@
 
 This project demonstrates a simple yet powerful **Python-based API
 Automation Framework** using `pytest`, `requests`, and `allure` for
-reporting. It showcases a robust API automation framework built with Python and Pytest, focusing on reusability, modular design, and detailed reporting.**.
+reporting. It showcases a robust API automation framework built with Python and Pytest, focusing on **reusability, modular design, and detailed reporting.**.
 
 ------------------------------------------------------------------------
 
