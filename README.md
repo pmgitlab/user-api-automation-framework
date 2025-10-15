@@ -120,7 +120,7 @@ All results displayed beautifully in **Allure HTML report**.
 **Prashant Makwana**\
 Senior QA Engineer \| Automation Enthusiast\
 🧰 Tools: Python, Pytest, Allure, Selenium, API Testing\
-🌐 MockAPI project for assignment demonstration
+🌐 MockAPI project for assignment demonstration\
 💼 https://www.linkedin.com/in/prashant-makwana-362aa872/
 ------------------------------------------------------------------------
 
@@ -131,9 +131,6 @@ Senior QA Engineer \| Automation Enthusiast\
     production systems.
 
 ------------------------------------------------------------------------
-
-⭐ If you liked this framework, don’t forget to star it on GitHub!
----
 
 ## 💫 Contribution & Feedback
 If you’d like to contribute, improve, or suggest new test scenarios, feel free to create a pull request or open an issue.  
