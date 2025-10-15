@@ -2,9 +2,7 @@
 
 This project demonstrates a simple yet powerful **Python-based API
 Automation Framework** using `pytest`, `requests`, and `allure` for
-reporting.\
-It was built as part of an interview assignment to showcase **framework
-design, modularity, and reporting**.
+reporting. It showcases a robust API automation framework built with Python and Pytest, focusing on reusability, modular design, and detailed reporting.**.
 
 ------------------------------------------------------------------------
 
@@ -126,15 +124,15 @@ Senior QA Engineer \| Automation Enthusiast\
 
 ## 💡 Notes
 
--   You can switch to **Fake REST API** anytime by updating `config.py`.
+-   You can switch to **Mock REST API** anytime by updating `config.py`.
 -   This framework is extendable for real-time API automation in
     production systems.
 
 ------------------------------------------------------------------------
 
 ## 💫 Contribution & Feedback
-If you’d like to contribute, improve, or suggest new test scenarios, feel free to create a pull request or open an issue.  
+If you'd like to contribute, improve, or suggest new test scenarios, feel free to create a pull request or open an issue.  
 
-⭐ **If you liked this framework, don’t forget to star it on GitHub!**
+⭐ **If you liked this framework, don't forget to star it on GitHub!**
 
 ---
